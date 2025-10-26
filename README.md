@@ -117,7 +117,7 @@ Food production accounts for approximately 26% of global greenhouse gas emission
 **Soumia Ghalim**
 
 - LinkedIn: [@soumia-ghalim](https://www.linkedin.com/in/soumia-ghalim/)
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@yourusername](https://github.com/soumiag)
 
 ## 🙏 Acknowledgments
 
